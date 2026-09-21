@@ -3,4 +3,4 @@ environment    = "prod"
 instance_type  = "t3.small"
 instance_count = 3
 project_name   = "terraform-multi-env"
-owner          = "Tejasvi"
+owner          = "Sakshi"
